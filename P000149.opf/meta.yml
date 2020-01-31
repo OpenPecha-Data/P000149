@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །༧མཁན་ཆེན་རྡོ་རྗེ་འཛིན་པ་ཀུན་བཟང་གང་ཤར་རང་གྲོལ་དབང་པོའི་གསུང་འབུམ་ཐར་པའི་ལམ་སྟོན་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁྱེན་ཆེན་གང་ཤར་དབང་པོ།
+  sku: TSD-KG-01
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: A Guide to Liberation:The Collected Writings of Khenpo Gangshar
+    bo: ༧མཁན་ཆེན་རྡོ་རྗེ་འཛིན་པ་ཀུན་བཟང་གང་ཤར་རང་གྲོལ་དབང་པོའི་གསུང་འབུམ་ཐར་པའི་ལམ་སྟོན་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Khenpo Gangshar Series–  Book 1
+    bo: མཁན་པོ་གང་ཤར་གསུང་འབུམ།–  དེབ། ༡
+  author:
+    en: Shechen Khenpo Gangshar Wangpo
+    bo: མཁྱེན་ཆེན་གང་ཤར་དབང་པོ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-KG-01
+  category:
+    en: Collected Writings
+    bo: གསུང་འབུམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-KG-01.epub
+  description:
+    en: ''
+    bo: ''

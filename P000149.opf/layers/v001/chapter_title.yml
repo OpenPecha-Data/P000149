@@ -1,0 +1,116 @@
+id: 5adf55ff04b448509f95fe55f9c0beb3
+annotation_type: chapter_title
+revision: '00001'
+annotations:
+- id: fe0565fb6ab242e8b480945d7196f3fd
+  span:
+    start: 140
+    end: 139
+- id: 5409d6b06d8e4c419c4bbcb5bb87708d
+  span:
+    start: 141
+    end: 152
+- id: acbc3cef52224ab39f6923a71aeee428
+  span:
+    start: 154
+    end: 189
+- id: 278931f5a88e43d8a9739f0cdb465d35
+  span:
+    start: 5378
+    end: 5433
+- id: 27b3707a6c184e0388492653340dc1fb
+  span:
+    start: 6988
+    end: 7019
+- id: f7b4e491ac814356a668dae6c26bb4d2
+  span:
+    start: 11695
+    end: 11740
+- id: c727c40dd9b84fae846e582369c6e8d0
+  span:
+    start: 16126
+    end: 16182
+- id: 6d13bf677b04439aab4d9ed33bd9d8b5
+  span:
+    start: 17265
+    end: 17292
+- id: 3670cdbc31c3436abff96c3fcf9a2f15
+  span:
+    start: 18570
+    end: 18617
+- id: 27032d5c7ae44eac979d03690a0af2bc
+  span:
+    start: 20718
+    end: 20761
+- id: 3d33706f602e4e1eabad5b6db2ed6df2
+  span:
+    start: 22496
+    end: 22547
+- id: 0df0a51c76ad46fc9b8733f5a88d98ba
+  span:
+    start: 24338
+    end: 24376
+- id: b66b72cb36ff4b2989deaffd31e1e412
+  span:
+    start: 25615
+    end: 25654
+- id: ed6ef00ac1984383ba6e7d0ced087177
+  span:
+    start: 26829
+    end: 26861
+- id: c78565a2374d4c73ac1dd1eb233452d3
+  span:
+    start: 28326
+    end: 28415
+- id: d758dbe864274ae5a6b9ef3058751368
+  span:
+    start: 30603
+    end: 30646
+- id: d6a74ed2d9654d01826184c8213e9106
+  span:
+    start: 31046
+    end: 31118
+- id: b8f0ee97418b4f16a7086ea2af4dc631
+  span:
+    start: 31966
+    end: 32005
+- id: bcc46cfc4f554492a5c64c99397f9a4d
+  span:
+    start: 32219
+    end: 32325
+- id: a0ff5aae2da340f49559a9842a7680d6
+  span:
+    start: 37127
+    end: 37181
+- id: c630af9e171047109e4ae43dd479655b
+  span:
+    start: 41564
+    end: 41597
+- id: 2de98bf260ce48819681777464b54978
+  span:
+    start: 42319
+    end: 42377
+- id: fb4bccfbe1dd4a3bb30aa8a3875401f6
+  span:
+    start: 44021
+    end: 44087
+- id: 6a86278e3fe84c0080dd532036fb3352
+  span:
+    start: 46557
+    end: 46609
+- id: 48c5cbdc7ac842c78c5020e810402f2a
+  span:
+    start: 61368
+    end: 61455
+- id: 6621e36e8093497180f85baf5fb75772
+  span:
+    start: 63862
+    end: 63981
+- id: f1c435e9abb246e687f43a3279ae9ca5
+  span:
+    start: 123872
+    end: 123948
+- id: d4b321a7585f47b69bb415010dba54c3
+  span:
+    start: 129071
+    end: 129178
