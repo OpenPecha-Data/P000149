@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000149
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །༧མཁན་ཆེན་རྡོ་རྗེ་འཛིན་པ་ཀུན་བཟང་གང་ཤར་རང་གྲོལ་དབང་པོའི་གསུང་འབུམ་ཐར་པའི་ལམ་སྟོན་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁྱེན་ཆེན་གང་ཤར་དབང་པོ།
-  sku: TSD-KG-01
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: TSD-KG-01
 web_metadata:
   title:
     en: A Guide to Liberation:The Collected Writings of Khenpo Gangshar
